@@ -11,3 +11,8 @@ The data used are saved in BagSeine.mat.
 "analysisMainV2.m" conduct occupancy analysis with observation probability with random effect.
 "analsyisMainV2F.m" conduct occupancy analysis with constant observation probability. 
 
+# Citation
+If you use this code, please cite our paper:
+
+Fujiwara, M., F. Martinez-Andrade, R. J. D. Wells, M. Fisher, M. Pawluk, and M. C. Livernois. 2019. Climate-related factors cause changes in the diversity of fish and invertebrates in subtropical coast of the Gulf of Mexico. Communications Biology 2:403, <10.1038/s42003-019-0650-9>.
+
